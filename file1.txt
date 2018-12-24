@@ -8,6 +8,6 @@ this is my first git file....!!!
      login: <input> </input>
      username:
      password:
-     submit: ok
+     submit: <input type="submit"></input>
      </body>
 </html>
